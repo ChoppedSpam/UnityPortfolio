@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Link to Demo Vid : https://drive.google.com/file/d/17Bc7UOwBQ47Be8MAdGUKdln4xXZvUlDc/view
+
 public class BallControl : MonoBehaviour
 {
     public float power = 10f;
